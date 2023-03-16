@@ -69,7 +69,11 @@ Propiedad que permite al sistema crear clases con base en otras previamente exis
 **Bibliografía:**
 
 1.[Paradigma](https://profile.es/blog/que-son-los-paradigmas-de-programacion/)
+
 2.[POO](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos#Historia)
+
 3.[Encapsulamiento](https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/)
+
 3,1.[Sistema de encapsulamiento](https://ferestrepoca.github.io/paradigmas-de-programacion/poo/poo_teoria/concepts.html)
+
 4.[Herencia](https://ferestrepoca.github.io/paradigmas-de-programacion/poo/poo_teoria/concepts.html)
