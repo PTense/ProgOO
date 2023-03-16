@@ -10,7 +10,6 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación, es 
 *Los conceptos de la POO tienen origen en Simula 67, un lenguaje diseñado para hacer simulaciones, creado por Ole-Johan Dahl y Kristen Nygaard, del Centro de Cómputo Noruego en Oslo.*
 
 **Abstracción**
-image.png
 
 
 
@@ -19,6 +18,16 @@ image.png
 
 
 
+
+
+
+
+
+**UML:**
+
+***Máquina Expendedora - Modelo***
+
+![image](https://user-images.githubusercontent.com/126371042/225495131-7a37f189-c1ad-4f74-8aca-e3e29fce4192.png)
 
 
 
