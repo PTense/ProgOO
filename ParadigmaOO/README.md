@@ -10,6 +10,19 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación, es 
 *Los conceptos de la POO tienen origen en Simula 67, un lenguaje diseñado para hacer simulaciones, creado por Ole-Johan Dahl y Kristen Nygaard, del Centro de Cómputo Noruego en Oslo.*
 
 **Abstracción**
+En términos simples, la abstracción es la acción de determinar los atributos y métodos de cierto objeto. Por ejemplo, al imaginar una biclicleta, al utilizar la abstracción, llegamos a la conclusión que esta puede tener como atributos como el color o el material con el que está hecho, y al hablar de su método, nos referimos a la función que cumple, como moverse.
+Se considera fundamental en la programación porque conforma la base o el proceso inicial de reconocimiento de objetos para transferirlos al paradigma de la programación con la informacion observada, y se puede aplicar a cualquier objeto físico o idea.
+
+**Encapsulamiento:**
+Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
+Su importancia radica en mantener la consistencia de los valores introducidos en el sistema. Un sistema que utiliza clases y valores sin encapsulamiento puede desatar multiples ediciones y cambios en as variables, causando resultados erroneos, funcionalidad parcialmente reducida, o que el sistema no funcione en absoluto como se esperaba.
+
+**Encapsulamiento - Imágenes:**
+
+***Sistema CON encapsulamiento***
+![image](https://user-images.githubusercontent.com/126371042/225498687-d2d26f99-f711-4453-98f3-a6714a9136b0.png)
+***Sistema SIN encapsulamiento***
+![image](https://user-images.githubusercontent.com/126371042/225498535-beadda8b-cb3a-43a4-a399-e5eeaa5b0945.png)
 
 
 
@@ -40,6 +53,8 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación, es 
 
 
 
-Bibliografía:
+**Bibliografía:**
 
 1.[Paradigma](<https://profile.es/blog/que-son-los-paradigmas-de-programacion/>)
+2.[POO](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos#Historia)
+3.[Encapsulamiento](https://styde.net/encapsulamiento-en-la-programacion-orientada-a-objetos/)
